@@ -29,7 +29,7 @@ Terminal
 npm -g install yarn
 npm -g install @vue/cli
 npm -g install json-server
-npm -g install nodemon //ถ้าลงตัวนี้แล้วให้ไปเปลี่ยนไฟล์ package.json ,"scripts":{"serve": "nodemon src"} /* "vue-cli-service serve" */
+npm -g install nodemon
 yarn add live-server
 yarn add vue-router
 yarn add vee-validate
