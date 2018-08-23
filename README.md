@@ -39,7 +39,7 @@ yarn add vuex
 
 ### Create Project
 ````
-vue ui ห้กด break Ctrl + C เลือก n
+vue ui เมื่อลงเสร็จแล้วให้กด Ctrl + C เลือก n
 เปิด vscode หลังจาก สร้าง Project
 cd ไปโปรเจคงานและพิมพ์ว่า yarn serve [จะได้ลิงค์ local มา]
 ````
