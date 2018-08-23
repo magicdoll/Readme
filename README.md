@@ -29,7 +29,7 @@ Terminal
 npm -g install yarn
 npm -g install @vue/cli
 npm -g install json-server
-npm -g nodemon
+npm -g install nodemon
 yarn add live-server
 yarn add vue-router
 yarn add vee-validate
