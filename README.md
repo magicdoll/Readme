@@ -6,7 +6,7 @@ https://www.nongit.com/blog/how-to-install-sql-server-2016-express.html
 
 ### Solve MSSQl Server Cannot Connect Server
 ````
-https://blog.sqlauthority.com/2009/05/21/sql-server-fix-error-provider-named-pipes-provider-error-40-could-not-open-a-connection-to-sql-server-microsoft-sql-server-error/
+https://blog.sqlauthority.com/2009/05/21/
 ````
 
 ### Link Tutorail Vue.js
