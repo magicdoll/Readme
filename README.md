@@ -46,10 +46,22 @@ cd ไปโปรเจคงานและพิมพ์ว่า yarn serve
 
 ### Vistual Studio Extensions
 ````
+git extension pack
+git add remote
+gitignore
+
 npm Intellisense
 Path Intellisense
 vue (liuji-jim)
 Vue VSCode Snippets
+
+open in github, bitbucket
+
+file-cons
+Palenight theme
+Panda theme
+Project manager
+StandardJS - JavaScript Standard Style
 ````
 ---------------------------------------------------------------------------------------------------------
 ### mockaroo.com << เว็บสร้าง json
