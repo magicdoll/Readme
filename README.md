@@ -55,7 +55,7 @@ Vue VSCode Snippets
 
 open in github, bitbucket
 
-file-cons
+file-icons
 Palenight theme
 Panda theme
 Project manager
