@@ -67,3 +67,8 @@ StandardJS - JavaScript Standard Style
 ````
 www.mockaroo.com
 ````
+
+### How to Clone Git
+````
+git clone https://github.com/vuejs/vue-test-utils-getting-started
+````
